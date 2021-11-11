@@ -48,6 +48,7 @@
     font-size: 1rem;
     height: 80px;
     max-width: 460px;
+    overflow: hidden;
     opacity: 0.9;
 }
 
